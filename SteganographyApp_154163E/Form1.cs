@@ -170,6 +170,9 @@ namespace SteganographyApp_154163E
 
         }
 
-      
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
